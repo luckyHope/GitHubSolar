@@ -13,6 +13,7 @@ namespace SolarSystem.DAL
         public long Temperature { get; set; }
         public long Mass { get; set; }
         public long Orbit { get; set; }
+        public long Diametre { get; set; }
         public List<Planet> Planets { get; set; }
         public List <Moon> Moons { get; set; }
     }

@@ -5,75 +5,75 @@
   [{
       "Type" : "Planet",
       "Name" : "Mercury",
-      "Massa" : 654987654,
-      "Diametr" :  9879846546315
+      "Mass" : 654987654,
+      "Diametre" :  9879846546315
     },
     {
       "Type" : "Planet",
       "Name" : "Venera",
-      "Massa" : 654987654,
-      "Diametr" :  9879846546315
+      "Mass" : 654987654,
+      "Diametre" :  9879846546315
     },
     {
       "Type" : "Planet",
       "Name" : "Earth",
-      "Massa" : 654987654,
-      "Diametr" :  9879846546315,
+      "Mass" : 654987654,
+      "Diametre" :  9879846546315,
       "Moons" :
       [{
           "Type" : "Moon",
           "Name" : "Moon",
-          "Massa" : 654987654,
-          "Diametr" :  9879846546315
+          "Mass" : 654987654,
+          "Diametre" :  9879846546315
         }]
     },
     {
       "Type" : "Planet",
       "Name" : "Mars",
-      "Massa" : 654987654,
-      "Diametr" :  9879846546315,
+      "Mass" : 654987654,
+      "Diametre" :  9879846546315,
        "Moons" :
       [{
           "Type" : "Moon",
           "Name" : "Fobos",
-          "Massa" : 654987654,
-          "Diametr" :  9879846546315
+          "Mass" : 654987654,
+          "Diametre" :  9879846546315
         },
                 {
           "Type" : "Moon",
           "Name" : "Deymos",
-          "Massa" : 654987654,
-          "Diametr" :  9879846546315
+          "Mass" : 654987654,
+          "Diametre" :  9879846546315
         }]
     },
     {
       "Type" : "Planet",
       "Name" : "Upiter",
-      "Massa" : 654987654,
-      "Diametr" :  9879846546315
+      "Mass" : 654987654,
+      "Diametre" :  9879846546315
     },
     {
       "Type" : "Planet",
       "Name" : "Saturn",
-      "Massa" : 654987654,
-      "Diametr" :  9879846546315
+      "Mass" : 654987654,
+      "Diametre" :  9879846546315
     },
     {
       "Type" : "Planet",
       "Name" : "Uran",
-      "Massa" : 654987654,
-      "Diametr" :  9879846546315
+      "Mass" : 654987654,
+      "Diametre" :  9879846546315
     },
     {
       "Type" : "Planet",
       "Name" : "Neptun",
-      "Massa" : 654987654,
-      "Diametr" :  9879846546315
+      "Mass" : 654987654,
+      "Diametre" :  9879846546315
     },
     {
       "Type" : "Planet",
       "Name" : "Pluton",
-      "Massa" : 654987654,
-      "Diametr" :  9879846546315
+      "Mass" : 654987654,
+      "Diametre" :  9879846546315
     }]
 }
