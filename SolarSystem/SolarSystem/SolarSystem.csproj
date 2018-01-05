@@ -45,10 +45,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BLL\Logic.cs" />
+    <Compile Include="DAL\CelestialBody.cs" />
     <Compile Include="DAL\Data.cs" />
     <Compile Include="DAL\Moon.cs" />
     <Compile Include="DAL\Planet.cs" />
-    <Compile Include="DAL\Solar.cs" />
+    <Compile Include="DAL\Star.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestFolder\TestClass.cs" />

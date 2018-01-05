@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SolarSystem.DAL
 {
-    class Planet
+    class Planet : CelestialBody
     {
     }
 }

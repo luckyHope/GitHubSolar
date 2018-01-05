@@ -2,14 +2,16 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 
 namespace SolarSystem.DAL
 {
     class Data
     { 
-        public List <string> SSData { get; set; }
+        string SSData { get; set; }
         public Data(string directory)
         {
             using (FileStream filestream = File.OpenRead(directory))
@@ -17,12 +19,14 @@ namespace SolarSystem.DAL
                 using (StreamReader streamReader = new StreamReader(filestream))
                 {
                     while (!streamReader.EndOfStream)
+
                     {
                         string line = streamReader.ReadLine();
-                        SSData.Add(line);
+                        SSData +=line;
                     }
                 }
             }
+            Star solar = JsonConvert.DeserializeObject<Star>(SSData);
         }
     }
 }
