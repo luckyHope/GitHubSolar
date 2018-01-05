@@ -11,7 +11,7 @@ namespace SolarSystem.DAL
 {
     class Data
     { 
-        string SSData { get; set; }
+        public string SSData { get; set; }
         public Data(string directory)
         {
             using (FileStream filestream = File.OpenRead(directory))
@@ -26,7 +26,6 @@ namespace SolarSystem.DAL
                     }
                 }
             }
-            Star solar = JsonConvert.DeserializeObject<Star>(SSData);
         }
     }
 }
