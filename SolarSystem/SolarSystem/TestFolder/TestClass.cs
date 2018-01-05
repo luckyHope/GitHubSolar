@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SolarSystem
+namespace SolarSystem.TestFolder
 {
-    class Test
+    class TestClass
     {
     }
 }

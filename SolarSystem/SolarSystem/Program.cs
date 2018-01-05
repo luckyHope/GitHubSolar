@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using SolarSystem.TestFolder;
 
 namespace SolarSystem
 {
@@ -11,7 +12,7 @@ namespace SolarSystem
         static void Main(string[] args)
         {
             Console.WriteLine("Hi!");
-            ClassUsing cu = new ClassUsing();
+            TestClass tt = new TestClass();
         }
     }
 }

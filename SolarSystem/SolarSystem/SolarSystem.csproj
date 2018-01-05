@@ -43,17 +43,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BLL\Logic.cs" />
-    <Compile Include="ClassUsing.cs" />
     <Compile Include="DAL\Data.cs" />
     <Compile Include="DAL\Planet.cs" />
     <Compile Include="DAL\Solar.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Test.cs" />
+    <Compile Include="TestFolder\TestClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="Data\SolarSystem.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="UI\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
