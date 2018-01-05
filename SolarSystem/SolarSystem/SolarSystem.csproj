@@ -32,7 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL" />
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -44,6 +46,7 @@
   <ItemGroup>
     <Compile Include="BLL\Logic.cs" />
     <Compile Include="DAL\Data.cs" />
+    <Compile Include="DAL\Moon.cs" />
     <Compile Include="DAL\Planet.cs" />
     <Compile Include="DAL\Solar.cs" />
     <Compile Include="Program.cs" />

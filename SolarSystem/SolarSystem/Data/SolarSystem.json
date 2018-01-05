@@ -2,8 +2,7 @@
   "Type" : "Star",
   "Name" : "Sun",
   "Planets" : 
-  [ 
-    {
+  [{
       "Type" : "Planet",
       "Name" : "Mercury",
       "Massa" : 654987654,
@@ -21,14 +20,12 @@
       "Massa" : 654987654,
       "Diametr" :  9879846546315,
       "Moons" :
-      [
-        {
+      [{
           "Type" : "Moon",
           "Name" : "Moon",
           "Massa" : 654987654,
           "Diametr" :  9879846546315
-        }
-      ]
+        }]
     },
     {
       "Type" : "Planet",
@@ -36,8 +33,7 @@
       "Massa" : 654987654,
       "Diametr" :  9879846546315,
        "Moons" :
-      [
-        {
+      [{
           "Type" : "Moon",
           "Name" : "Fobos",
           "Massa" : 654987654,
@@ -48,8 +44,7 @@
           "Name" : "Deymos",
           "Massa" : 654987654,
           "Diametr" :  9879846546315
-        }
-      ]
+        }]
     },
     {
       "Type" : "Planet",
@@ -80,7 +75,5 @@
       "Name" : "Pluton",
       "Massa" : 654987654,
       "Diametr" :  9879846546315
-    }
-    
-  ]
+    }]
 }
