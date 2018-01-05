@@ -11,6 +11,7 @@ namespace SolarSystem
         static void Main(string[] args)
         {
             Console.WriteLine("Hi!");
+            ClassUsing cu = new ClassUsing();
         }
     }
 }
