@@ -18,7 +18,9 @@ namespace SolarSystem
             string solarSystemData;
             DAL.Data data = new Data(directory);
             solarSystemData = data.SSData;
-            BLL.Logic logic = new Logic(solarSystemData);
+            BLL.Logic logic = new Logic(solarSystemData, directory);
+            logic.CreatePlanet();
+            logic.RewriteFile();
 
         }
     }
