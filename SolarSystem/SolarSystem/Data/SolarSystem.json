@@ -1,1 +1,176 @@
-{"Type":"Star","Name":"Sun","Temperature":0,"Mass":0,"Orbit":0,"Diametre":0,"Planets":[{"Type":"Planet","Name":"Mercury","Temperature":0,"Mass":654987654,"Orbit":0,"Diametre":9879846546315,"Planets":null,"Moons":null},{"Type":"Planet","Name":"Venera","Temperature":0,"Mass":654987654,"Orbit":0,"Diametre":9879846546315,"Planets":null,"Moons":null},{"Type":"Planet","Name":"Earth","Temperature":0,"Mass":654987654,"Orbit":0,"Diametre":9879846546315,"Planets":null,"Moons":[{"Type":"Moon","Name":"Moon","Temperature":0,"Mass":654987654,"Orbit":0,"Diametre":9879846546315,"Planets":null,"Moons":null}]},{"Type":"Planet","Name":"Mars","Temperature":0,"Mass":654987654,"Orbit":0,"Diametre":9879846546315,"Planets":null,"Moons":[{"Type":"Moon","Name":"Fobos","Temperature":0,"Mass":654987654,"Orbit":0,"Diametre":9879846546315,"Planets":null,"Moons":null},{"Type":"Moon","Name":"Deymos","Temperature":0,"Mass":654987654,"Orbit":0,"Diametre":9879846546315,"Planets":null,"Moons":null}]},{"Type":"Planet","Name":"Upiter","Temperature":0,"Mass":654987654,"Orbit":0,"Diametre":9879846546315,"Planets":null,"Moons":null},{"Type":"Planet","Name":"Saturn","Temperature":0,"Mass":654987654,"Orbit":0,"Diametre":9879846546315,"Planets":null,"Moons":null},{"Type":"Planet","Name":"Uran","Temperature":0,"Mass":654987654,"Orbit":0,"Diametre":9879846546315,"Planets":null,"Moons":null},{"Type":"Planet","Name":"Neptun","Temperature":0,"Mass":654987654,"Orbit":0,"Diametre":9879846546315,"Planets":null,"Moons":null},{"Type":"Planet","Name":"Pluton","Temperature":0,"Mass":654987654,"Orbit":0,"Diametre":9879846546315,"Planets":null,"Moons":null},{"Type":"Planet","Name":"Upiter","Temperature":0,"Mass":2523525345,"Orbit":0,"Diametre":23234234234,"Planets":null,"Moons":[{"Type":"Moon","Name":"Andromeda","Temperature":0,"Mass":566346452,"Orbit":0,"Diametre":4564564,"Planets":null,"Moons":null},{"Type":"Moon","Name":"Selesta","Temperature":0,"Mass":566346452,"Orbit":0,"Diametre":4564564,"Planets":null,"Moons":null},{"Type":"Moon","Name":"Ginerva","Temperature":0,"Mass":566346452,"Orbit":0,"Diametre":4564564,"Planets":null,"Moons":null},{"Type":"Moon","Name":"Lirgonda","Temperature":0,"Mass":566346452,"Orbit":0,"Diametre":4564564,"Planets":null,"Moons":null}]}],"Moons":null}
+{
+	"Type": "Star",
+	"Name": "Sun",
+	"Temperature": 0,
+	"Mass": 0,
+	"Orbit": 0,
+	"Diametre": 0,
+	"Planets": [{
+		"Type": "Planet",
+		"Name": "Mercury",
+		"Temperature": 0,
+		"Mass": 654987654,
+		"Orbit": 0,
+		"Diametre": 9879846546315,
+		"Planets": null,
+		"Moons": null
+	},
+	{
+		"Type": "Planet",
+		"Name": "Venera",
+		"Temperature": 0,
+		"Mass": 654987654,
+		"Orbit": 0,
+		"Diametre": 9879846546315,
+		"Planets": null,
+		"Moons": null
+	},
+	{
+		"Type": "Planet",
+		"Name": "Earth",
+		"Temperature": 0,
+		"Mass": 654987654,
+		"Orbit": 0,
+		"Diametre": 9879846546315,
+		"Planets": null,
+		"Moons": [{
+			"Type": "Moon",
+			"Name": "Moon",
+			"Temperature": 0,
+			"Mass": 654987654,
+			"Orbit": 0,
+			"Diametre": 9879846546315,
+			"Planets": null,
+			"Moons": null
+		}]
+	},
+	{
+		"Type": "Planet",
+		"Name": "Mars",
+		"Temperature": 0,
+		"Mass": 654987654,
+		"Orbit": 0,
+		"Diametre": 9879846546315,
+		"Planets": null,
+		"Moons": [{
+			"Type": "Moon",
+			"Name": "Fobos",
+			"Temperature": 0,
+			"Mass": 654987654,
+			"Orbit": 0,
+			"Diametre": 9879846546315,
+			"Planets": null,
+			"Moons": null
+		},
+		{
+			"Type": "Moon",
+			"Name": "Deymos",
+			"Temperature": 0,
+			"Mass": 654987654,
+			"Orbit": 0,
+			"Diametre": 9879846546315,
+			"Planets": null,
+			"Moons": null
+		}]
+	},
+	{
+		"Type": "Planet",
+		"Name": "Upiter",
+		"Temperature": 0,
+		"Mass": 654987654,
+		"Orbit": 0,
+		"Diametre": 9879846546315,
+		"Planets": null,
+		"Moons": null
+	},
+	{
+		"Type": "Planet",
+		"Name": "Saturn",
+		"Temperature": 0,
+		"Mass": 654987654,
+		"Orbit": 0,
+		"Diametre": 9879846546315,
+		"Planets": null,
+		"Moons": null
+	},
+	{
+		"Type": "Planet",
+		"Name": "Uran",
+		"Temperature": 0,
+		"Mass": 654987654,
+		"Orbit": 0,
+		"Diametre": 9879846546315,
+		"Planets": null,
+		"Moons": null
+	},
+	{
+		"Type": "Planet",
+		"Name": "Neptun",
+		"Temperature": 0,
+		"Mass": 654987654,
+		"Orbit": 0,
+		"Diametre": 9879846546315,
+		"Planets": null,
+		"Moons": null
+	},
+	{
+		"Type": "Planet",
+		"Name": "Pluton",
+		"Temperature": 0,
+		"Mass": 654987654,
+		"Orbit": 0,
+		"Diametre": 9879846546315,
+		"Planets": null,
+		"Moons": null
+	},
+	{
+		"Type": "Planet",
+		"Name": "Upiter",
+		"Temperature": 0,
+		"Mass": 2523525345,
+		"Orbit": 0,
+		"Diametre": 23234234234,
+		"Planets": null,
+		"Moons": [{
+			"Type": "Moon",
+			"Name": "Andromeda",
+			"Temperature": 0,
+			"Mass": 566346452,
+			"Orbit": 0,
+			"Diametre": 4564564,
+			"Planets": null,
+			"Moons": null
+		},
+		{
+			"Type": "Moon",
+			"Name": "Selesta",
+			"Temperature": 0,
+			"Mass": 566346452,
+			"Orbit": 0,
+			"Diametre": 4564564,
+			"Planets": null,
+			"Moons": null
+		},
+		{
+			"Type": "Moon",
+			"Name": "Ginerva",
+			"Temperature": 0,
+			"Mass": 566346452,
+			"Orbit": 0,
+			"Diametre": 4564564,
+			"Planets": null,
+			"Moons": null
+		},
+		{
+			"Type": "Moon",
+			"Name": "Lirgonda",
+			"Temperature": 0,
+			"Mass": 566346452,
+			"Orbit": 0,
+			"Diametre": 4564564,
+			"Planets": null,
+			"Moons": null
+		}]
+	}],
+	"Moons": null
+}

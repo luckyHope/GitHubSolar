@@ -24,15 +24,7 @@ namespace SolarSystem.BLL
 
         public void CreatePlanet()
         {
-            Solar.Planets.Add(new Planet{Name = "Upiter", Type = "Planet", Diametre = 23234234234, Mass = 2523525345,
-                                            Moons = new List<Moon>
-                                            {
-                                                new Moon {Type = "Moon", Name = "Andromeda", Diametre = 4564564, Mass = 566346452},
-                                                new Moon {Type = "Moon", Name = "Selesta", Diametre = 4564564, Mass = 566346452},
-                                                new Moon {Type = "Moon", Name = "Ginerva", Diametre = 4564564, Mass = 566346452},
-                                                new Moon {Type = "Moon", Name = "Lirgonda", Diametre = 4564564, Mass = 566346452}
-                                            }
-                                        });
+           
         }
         public void CreateMoon()
         {
